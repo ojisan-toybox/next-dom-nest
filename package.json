@@ -1,0 +1,24 @@
+{
+  "name": "next-dom-nest",
+  "version": "1.0.0",
+  "description": "NextJS でどういう DOM のネストができないか実験する",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/next-dom-nest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/next-dom-nest/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/next-dom-nest#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
